@@ -1,6 +1,5 @@
 
 ## Run Instructions:
-### Backend
 ```bash
 cd backend
 python -m pip install fastapi uvicorn
